@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алёна Воробьева](https://up.htmlacademy.ru/javascript/18/user/297535).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Ничипорчук](https://up.htmlacademy.ru/javascript/18/user/612797).
 
 ---
 
